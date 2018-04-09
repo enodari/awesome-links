@@ -27,3 +27,5 @@ _Python_
 _JavaScript_
 
 - [SweetAlert2](https://sweetalert2.github.io/) - A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. ([Source Code](https://github.com/sweetalert2/sweetalert2)) `MIT`
+- [Pikaday](https://dbushell.com/Pikaday/) - 
+A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS ([Source Code](https://github.com/dbushell/Pikaday)) `MIT`
