@@ -6,6 +6,7 @@ Useful links, libraries, tools and articles for Developers
 
 - [Backend](#backend)
 - [Frontend](#frontend)
+- [Misc.](#misc)
 
 --------------------
 
@@ -30,3 +31,11 @@ _JavaScript_
 - [Pikaday](https://dbushell.com/Pikaday/) - 
 A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS ([Source Code](https://github.com/dbushell/Pikaday)) `MIT`
 - [Panagram](https://panagram.herokuapp.com/) - 2kb Vanilla JavaScript rich text editor, that you can fully customize ([Source Code](https://github.com/Stoick001/Panagram.js)) `MIT`
+
+--------------------
+
+## Misc.
+
+**[`^        back to top        ^`](#)**
+
+- [Nativefier](https://github.com/jiahaog/nativefier) -  Make any web page a desktop application ([Source Code](https://github.com/jiahaog/nativefier)) `MIT`
